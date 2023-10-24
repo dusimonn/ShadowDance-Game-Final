@@ -1,0 +1,12 @@
+Lane,Special,200
+Lane,Right,742
+Lane,Left,432
+Lane,Down,592
+Left,Normal,100
+Special,DoubleScore,150
+Left,Normal,200
+Special,DoubleScore,250
+Left,Normal,280
+Left,Normal,320
+Left,Normal,900
+Left,Normal,1000
